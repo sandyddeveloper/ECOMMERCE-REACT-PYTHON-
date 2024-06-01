@@ -6,15 +6,15 @@ src/
 │   ├── Profile/
 │   └── Shared/
 ├── pages/
-│   ├── HomePage.js
-│   ├── ProductPage.js
-│   ├── CartPage.js
-│   ├── CheckoutPage.js
-│   ├── LoginPage.js
-│   ├── RegisterPage.js
-│   └── ProfilePage.js
+│   ├── HomePage.jsx
+│   ├── ProductPage.jsx
+│   ├── CartPage.jsx
+│   ├── CheckoutPage.jsx
+│   ├── LoginPage.jsx
+│   ├── RegisterPage.jsx
+│   └── ProfilePage.jsx
 ├── redux/
-│   ├── store.js
+│   ├── store.jsx
 │   ├── reducers/
 │   └── actions/
 └── App.js
