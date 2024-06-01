@@ -1,0 +1,21 @@
+ecommerce/
+├── ecommerce/
+│   ├── settings.py
+│   ├── urls.py
+│   ├── wsgi.py
+├── products/
+│   ├── models.py
+│   ├── views.py
+│   ├── serializers.py
+│   └── urls.py
+├── orders/
+│   ├── models.py
+│   ├── views.py
+│   ├── serializers.py
+│   └── urls.py
+├── users/
+│   ├── models.py
+│   ├── views.py
+│   ├── serializers.py
+│   └── urls.py
+└── manage.py
