@@ -1,0 +1,20 @@
+src/
+├── components/
+│   ├── Auth/
+│   ├── Cart/
+│   ├── Product/
+│   ├── Profile/
+│   └── Shared/
+├── pages/
+│   ├── HomePage.js
+│   ├── ProductPage.js
+│   ├── CartPage.js
+│   ├── CheckoutPage.js
+│   ├── LoginPage.js
+│   ├── RegisterPage.js
+│   └── ProfilePage.js
+├── redux/
+│   ├── store.js
+│   ├── reducers/
+│   └── actions/
+└── App.js
